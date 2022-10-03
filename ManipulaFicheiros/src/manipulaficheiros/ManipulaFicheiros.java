@@ -32,7 +32,7 @@ public class ManipulaFicheiros {
                 case 3: Ficheiro.escrevefinalFicheiro(); break;
                 case 4: Ficheiro.escreveFicheiroNovo(); break;
                 case 5: Ficheiro.mostraconteudoFicheiro(); break;
-                case 6: Ficheiro.mostraListafichiero(); break;
+                case 6: Ficheiro.mostraListaficheiros(); break;
                 case 0: break;
             }
         }while(op!=0);
