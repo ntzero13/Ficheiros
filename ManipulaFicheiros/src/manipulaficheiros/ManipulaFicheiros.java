@@ -31,7 +31,7 @@ public class ManipulaFicheiros {
                 case 2: Ficheiro.verificarSeExiste(); break;
                 case 3: Ficheiro.escrevefinalFicheiro(); break;
                 case 4: Ficheiro.escreveFicheiroNovo(); break;
-                case 5: Ficheiro.mostraconteudiFicheiro(); break;
+                case 5: Ficheiro.mostraconteudoFicheiro(); break;
                 case 6: Ficheiro.mostraListafichiero(); break;
                 case 0: break;
             }
